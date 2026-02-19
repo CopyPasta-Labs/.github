@@ -30,10 +30,6 @@ We harden networks built to survive nation-state pressure, build bespoke securit
 
 - 🔐 **Privacy Pools** — Private ETH transactions via zero-knowledge proofs. Full-stack: ZK relayer, ASP, block explorer, Next.js UI — one `docker compose up`. *(repo coming soon)*
 
-## Founder
-
-**Vladimir Zeev Rabinovich** — started in a top-tier national technology unit (2006), co-founded security startups, served as senior security researcher at Microsoft. Public CVEs, multiple patents, and a habit of finding things others miss.
-
 ---
 
 🌐 [copypasta.ae](https://copypasta.ae) · 💼 [LinkedIn](https://www.linkedin.com/company/copypasta-labs/) · ✉️ contact@copypastalabs.com
