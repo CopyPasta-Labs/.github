@@ -28,7 +28,7 @@ We harden networks built to survive nation-state pressure, build bespoke securit
 
 ## Featured
 
-- 🔐 **Privacy Pools** — Private ETH transactions via zero-knowledge proofs. Full-stack: ZK relayer, ASP, block explorer, Next.js UI — one `docker compose up`. *(repo coming soon)*
+- 🔐 **[Privacy Pools](https://github.com/CopyPasta-Labs/privacy-pools-anvil)** — Private ETH transactions via zero-knowledge proofs. Full-stack: ZK circuits, relayer, ASP, block explorer, React UI — one `docker compose up`.
 
 ---
 
